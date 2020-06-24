@@ -1,0 +1,70 @@
+.headline {
+  font-family: Times, serif;
+  font-size: 30px;
+}
+
+#byline {
+  font-family:Helvetica,sans-serif;
+  font-size:13px;
+  font-style: italic;
+}
+.text {
+  font-family: Helvetica,sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  text-align: justify;
+  opacity: 1;
+
+}
+
+#content {
+    width:650px;
+    margin: 0 auto;
+  }
+
+  .Subhead1 {
+    font-family: Times, serif;
+  }
+
+  .Subhead{
+    font-family: Times, sans-serif;
+    text-align: center;
+    font-size: 15px;
+  }
+#grad {
+  background-image: linear-gradient(LightBlue, sandybrown);
+  background-size: 100%;
+
+}
+
+#sectionheader {
+  background:rgba(255, 250, 250, 0.5);
+  width: 750px;
+  margin: 0 auto;
+}
+
+#Read {
+font-family: Helvetica, sans-serif;
+font-size: 15px;
+font-weight: bold;
+}
+
+#read2 {
+  font-family: Helvetica, sans-serif;
+  font-size: 13px;
+  font-weight: normal;
+}
+
+#caption {
+font-family: Helvetica, serif;
+font-size:11.5px;
+font-style; normal;
+color: #A8A8A8;
+}
+
+.blockquote {
+  font-family: Helvetica, serif;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+}
