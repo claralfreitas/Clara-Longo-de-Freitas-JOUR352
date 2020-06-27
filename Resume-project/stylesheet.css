@@ -12,6 +12,41 @@ text-align: center;
 
 }
 
+#CV {
+  font-family: 'Roboto'; sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+#sectionheader, #position, #publication, #date, #description, #degrees {
+  font-family: 'Roboto'; sans-serif;
+}
+#sectionheader {
+  font-size: 22px;
+  font-weight: 800;
+}
+
+#position {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+#publication {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+#date {
+  font-size: 14px;
+  font-weight: 400;
+  font-style: italic;
+}
+
+#description {
+  font-weight: bolder;
+
+}
+
 /* maybe we'll use this one
 div.scrollmenu {
   background-color: #333;
