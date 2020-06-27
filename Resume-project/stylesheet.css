@@ -40,7 +40,7 @@ li {
   font-family: 'Roboto'; sans-serif;
   font-weight: bolder;
 }
-.fa {
+.fa, .fas {
   padding: 20px;
   font-size: 30px;
   width: 50px;
@@ -49,6 +49,7 @@ li {
   color: black;
   text-decoration: none;
 }
+
 
 .fa:hover {
   opacity: 0.7;
