@@ -1,0 +1,110 @@
+#organization {
+   font-family: 'Roboto'; sans-serif;
+   text-transform: uppercase;
+font-size: 20px;
+text-align: center;
+}
+
+#about {
+  font-family: 'Roboto'; sans-serif;
+  font-size: 20px;
+  text-align: center;
+
+}
+
+/* maybe we'll use this one
+div.scrollmenu {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+  position: relative;
+  top: 0;
+  width: 100%;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+
+}
+
+div.scrollmenu a:hover {
+  background-color: #777;
+}
+*/
+
+li {
+  font-family: 'Roboto'; sans-serif;
+  font-weight: bolder;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  float: right;
+  text-align: right;
+  color: black;
+  text-decoration: none;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+#paragraph {
+    width:500px;
+    margin: 0 auto;
+}
+
+#contentdbk {
+    width:650px;
+    margin: 0 auto;
+  }
+
+.foreignlanguage {
+  font-weight: bold;
+}
+p {
+  font-family:'Roboto';
+}
+
+#dbk {
+  text-transform: uppercase;
+  margin: 10;
+  width:670px;
+  text-align: center;
+}
+
+.italic {
+  font-style: italic;
+}
+
+#experience {
+  text-align: center;
+}
+
+#skills {
+  text-align: center;
+}
+
+#contact {
+  text-align: center;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: white;
+  color: black;
+}
+
+#illustrations {
+  text-align: center;
+}
