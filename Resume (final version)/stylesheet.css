@@ -12,6 +12,9 @@ text-align: center;
 
 }
 
+.banner {
+  width: 100%;
+}
 #CV {
   font-family: 'Roboto'; sans-serif;
   font-size: 20px;
@@ -91,6 +94,7 @@ li {
 }
 
 #paragraph {
+  max-width: 100%;
     width:500px;
     margin: 0 auto;
 }
